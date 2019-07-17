@@ -1,2 +1,3 @@
-# stepick-auto-course
+﻿# stepick-auto-course
 Репозитория для обучения во автоматизации
+https://stepik.org/lesson/187065/step/7?auth=login&unit=161976
